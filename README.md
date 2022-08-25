@@ -1,1 +1,1 @@
-# Milk-Grader
+# Milk Grader
