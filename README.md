@@ -1,2 +1,2 @@
 # Milk Quality Predictor
-I made this project with my group at AI Camp that uses data analysis and machine learning methods to predict the quality of milk based on a dataset.
+This project was created at AI Camp that uses data analysis and machine learning methods to predict the quality of milk based on a dataset.
